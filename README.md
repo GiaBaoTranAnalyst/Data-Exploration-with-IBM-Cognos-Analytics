@@ -1,4 +1,4 @@
-# Data-Modelling-and-Dashboarding-with-IBM-Cognos-Analytics
+# Telecomm Customer Churn - Data Modeling and Finding Main Drivers with IBM Cognos Analytics
 
 ## Result:
 ![image](https://github.com/GiaBaoTranAnalyst/Data-Modelling-and-Dashboarding-with-IBM-Cognos-Analytics/assets/132706047/645ec672-16d4-4540-a6ba-23ddaf8a8cfc)
